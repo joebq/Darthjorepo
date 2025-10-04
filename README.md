@@ -1,4 +1,2 @@
 # Darthjorepo
-demo repository
-
-## TBD
+Preparing for AZ-400 Exam
